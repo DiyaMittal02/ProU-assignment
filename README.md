@@ -164,3 +164,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 **Made with ❤️ for Legal Awareness**
+## Here are some ScreenShots about the project
+<img width="1900" height="820" alt="image" src="https://github.com/user-attachments/assets/53f0f7f8-ec73-45e0-a8ae-c41e07ef2ca7" />
+<img width="1807" height="761" alt="image" src="https://github.com/user-attachments/assets/e32e28a1-e799-4b9f-b3f5-2ecff72f83e6" />
+<img width="1783" height="761" alt="image" src="https://github.com/user-attachments/assets/a7bee5ec-10a1-4e2e-82bd-03d894629c69" />
+
+
+
